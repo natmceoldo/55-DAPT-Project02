@@ -1,0 +1,24 @@
+Região Metropolitana da Baixada Santista
+habitantes: 2 048 654
+Santos
+
+Região Metropolitana de São Paulo
+habitantes: 21 571 281
+São Paulo
+
+Região Metropolitana de Campinas
+habitantes: 3 224 443
+Campinas
+
+Região Metropolitana do Vale do Paraíba e Litoral Norte
+habitantes: 2 928 345
+São José dos Campos
+
+Região Metropolitana de Sorocaba
+habitantes: 2 120 095
+Sorocaba
+
+Região Metropolitana de Ribeirão Preto
+habitantes: 1 755 029
+Ribeirão Preto
+
