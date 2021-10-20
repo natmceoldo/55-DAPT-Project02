@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/nat.lia.mendes.ceoldo/viz/DAPT-Project02/
 
 # Análise de Demanda de Energia Elétrica para o Estado de São Paulo
 
-![power](images\power.jpg)
+<img src="images\power.jpg" alt="power" style="zoom: 50%;" />
 
 ## Introdução
 
@@ -82,7 +82,7 @@ Observa-se que durante os meses mais quentes  do ano existem dois momentos de pi
 - Das 14h às 16h
 - Das 19h às 21h
 
-<img src="images\Fuji.png" alt="Fuji" style="zoom: 10%;" align="left" />
+<img src="images\Fuji.png" alt="Fuji" style="zoom: 2%;" align="left" />
 
 Enquanto que para os meses mais frios, o pico de demanda ocorre entre 19h e 21h, coincidindo com o horário de ponta já adotado pelas concessionárias
 
