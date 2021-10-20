@@ -73,7 +73,7 @@ https://sintegre.ons.org.br
 
 A demanda de energia elétrica tem perfil de carga mais elevado em dias úteis, o que justifica a adoção de tarifa diferenciada para o horário de ponta nesses dias.
 
-![Kamel](images\Kamel.png) 
+<img src="images\Kamel.png" alt="Kamel"  /> 
 
 Observa-se que durante os meses mais quentes  do ano existem dois momentos de pico de demanda:
 
